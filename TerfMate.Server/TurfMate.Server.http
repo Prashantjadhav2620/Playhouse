@@ -1,0 +1,6 @@
+@TurfMate.Server_HostAddress = http://localhost:5164
+
+GET {{TurfMate.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
