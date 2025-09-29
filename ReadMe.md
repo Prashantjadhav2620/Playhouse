@@ -147,19 +147,6 @@ TurfMate/
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 =======================
 TurfMate/
 ┣ TurfMate.Api/              # ASP.NET MVC Web API backend
